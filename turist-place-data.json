@@ -152,5 +152,131 @@
     "info": "Situated along the Canada-US border, Niagara Falls is one of the most famous waterfalls in the world. The water from Lake Erie flows into Lake Ontario over these massive waterfalls, known for the great quantity of water that is constantly tumbling over the vertical drop. Niagara Falls is actually a set of three falls: It consists of the largest section, known as Horseshoe Falls, with a drop of 187 feet; a second section on the American side of the river, known as the American Falls, with a drop of 89 feet; and a much thinner section located next to the American Falls, known as Bridal Veil Falls, with a drop of 78 feet.",
     "img": "https://images.unsplash.com/photo-1606516397986-1eeb79e8c052?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=864&q=80",
     "price": "20000"
+  },
+  {
+    "id": "23",
+    "name": "Srimagal",
+    "info": "The Capital of tea in Bangladesh is Srimagal which is situated in the north-eastern part of the country where you will find lush greenery fields all around. It is one of the best places in Bangladesh where you can really have the place & clam environment and there are two more visiting places too, Lawachhara National Park & Hamham Waterfalls.",
+    "img": "https://avijatrik.org/wp-content/uploads/2020/09/tea-870x555.jpg",
+    "price": "3000"
+  },
+  {
+    "id": "24",
+    "name": "Rangamati",
+    "info": "The District of Chittagong Hill Tracks area in Rangamati, a place full of natural amusement and here, here, you can find a man-made lake surrounded by Hill called Kaptai Lake where you can take a ride by boat all over the day, a Buddhist Monastery here named Rajban Bihara, a high-quality handicrafts market made by the tribal of Rangamati.",
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/16/5e/59/rangamati-hanging-bridge.jpg?w=700&h=500&s=1",
+    "price": "2800"
+  },
+  {
+    "id": "25",
+    "name": "Lalbag Fort",
+    "info": "Lalbag Fort or Aurangabad is another most famous historical place in Bangladesh. It is situated beside the Buriganga River, in the southwestern part of Dhaka, Bangladesh. It was built by Mudmhammad Azam in 1678. Lalbag Fort represents the incomplete dream of the Mughal prince. The fort remained incomplete after the death of Prince Azam.  ",
+    "img": "http://www.abhijna-emuseum.com/wp-content/uploads/2020/05/Lalbagh-Fort-Dhaka.jpeg",
+    "price": "2500"
+  },
+  {
+    "id": "26",
+    "name": "Jaflong",
+    "info": "This place is situated at the Bangladesh-India border. It is one of the most attractive places in Bangladesh. It is also an adventurous place. It is a hilly area and you can enjoy the waterfall on the way of Jaflong to Sylhet. The hills of Jaflong are greenish with forest and there are many wild animals in the forest. Tea garden and zero points are the most beautiful spot of Jaflong.",
+    "img": "https://www.travelandexplorebd.com/storage/app/public/posts/April2020/41.jpg",
+    "price": "3500"
+  },
+  {
+    "id": "27",
+    "name": "Ratatgul Swamp Forest",
+    "info": "Ratargul Swamp Forest is the only swamp forest in Bangladesh where you can enjoy different kinds of creatures here like monkey, eagle, insects, fish, birds, etc and this evergreen forest is located beside a river named Goain. You have to request and take permission from the forest office to arrange a boat to explore the forest. Monsoon is the best time to explore the forest.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ratargul_Swamp_Forest%2C_Sylhet%2C_Bangladesh.jpg/2560px-Ratargul_Swamp_Forest%2C_Sylhet%2C_Bangladesh.jpg",
+    "price": "3200"
+  },
+  {
+    "id": "28",
+    "name": "Malnicherra Tea Garden",
+    "info": "Malnicherra tea garden is one of the oldest and largest tea gardens in the subcontinent. If you want to enjoy the beauty of the tea garden in Sylhet, you must have to visit Malnicherra. Though the tea garden is now under private supervision, it is known as a place of choice for tourists to have a quality time. Better you seek permission from the authority to avoid complications before entering the tea garden.",
+    "img": "https://www.daily-bangladesh.com/media/imgAll/inner/1684018016.jpg",
+    "price": "3000"
+  },
+  {
+    "id": "29",
+    "name": "Inani Beach",
+    "info": "Inani beach is known as a wonderful beach for its corals which become green in summer and rainy season. The blue water, sunrise, and sunset will help you to make you a memorable trip. You can bath here without any fear of a shark. You can see here crab, snail, sea fish, and many more creatures. The view of hills here will also touch your mind.",
+    "img": "https://img.ev.mu/images/attractions/313/960x640/12657.jpg",
+    "price": "4000"
+  },
+  {
+    "id": "30",
+    "name": "Sitakundu",
+    "info": "Sitakundu is one of the oldest sites in Bangladesh.  If you want to soothe your mind then definitely enjoy the natural and charming beauty of sitakundu. It is very famous for the Chandranath temple and Buddhist temples. Many waterfalls, mountains, and green rivers make the place heaven. If you are nature and adventure lover then you must visit this place.      ",
+    "img": "https://www.localguidesconnect.com/t5/image/serverpage/image-id/61411i23E82792AE28BE66/image-size/large?v=v2&px=999",
+    "price": "3300"
+  },
+  {
+    "id": "31",
+    "name": "Nijhum Island",
+    "info": "It is a small island under Hatiya Upazila situated in the Noakhali district. This island is idle for tourists during winter. In winter, you can see here thousands of migratory birds. You can see here deer of special species. ",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Nijhum_Dwip_%2803%29.jpg/1200px-Nijhum_Dwip_%2803%29.jpg",
+    "price": "3700"
+  },
+  {
+    "id": "32",
+    "name": "Saat Gambuj Mosque",
+    "info": "Saat Gambuj Mosque is one of the most dignified of the ancient Bengal and during the 15th century, it was known as the greatest congregational mosques of Khan Jahan Ali. The mosque contains a total of 81 domes including 70 domes on the prayer hall, 7 domes on the central corridor & 4 domes on the corner tower which are the best tourist attraction of Bagerhat",
+    "img": "https://i.redd.it/ayedgczg43x21.jpg",
+    "price": "2900"
+  },
+  {
+    "id": "33",
+    "name": "",
+    "info": "",
+    "img": "",
+    "price": ""
+  },
+  {
+    "id": "34",
+    "name": "",
+    "info": "",
+    "img": "",
+    "price": ""
+  },
+  {
+    "id": "35",
+    "name": "",
+    "info": "",
+    "img": "",
+    "price": ""
+  },
+  {
+    "id": "36",
+    "name": "",
+    "info": "",
+    "img": "",
+    "price": ""
+  },
+  {
+    "id": "37",
+    "name": "",
+    "info": "",
+    "img": "",
+    "price": ""
+  },
+  {
+    "id": "38",
+    "name": "",
+    "info": "",
+    "img": "",
+    "price": ""
+  },
+  {
+    "id": "39",
+    "name": "",
+    "info": "",
+    "img": "",
+    "price": ""
+  },
+  {
+    "id": "40",
+    "name": "",
+    "info": "",
+    "img": "",
+    "price": ""
   }
 ]
